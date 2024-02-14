@@ -1,2 +1,5 @@
 # BISPP-writeups
-riesenia uloh na i-bispp 2022/2023 (fei stu, feictf) ----->
+
+všetky riešenia aj s postupom na mojej osobnej webstránke: https://supavol.github.io
+
+nezabudnite nechat ⭐
